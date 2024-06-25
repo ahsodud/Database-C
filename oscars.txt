@@ -1,0 +1,12 @@
+Movie;Director;Year;Genre
+AmericanFiction;CordJefferson;2023;Comedy-drama
+AnatomyofaFall;JustineTriet;2023;Thriller
+Barbie;GretaGerwig;2023;Comedy
+TheHoldovers;AlexanderPayne;2023;Comedy/Drama
+PastLives;SongCeline;2023;Drama
+Maestro;BradleyCooper;2023;Romance
+KillersoftheFlowerMoon;MichaelSorceress;2023;Western
+Oppenheimer;NolanChristopher;2023;Thriller/Mystery
+PoorThings;YorgosLanthimos;2023;Comedy/Sci-Fi
+TheZoneofInterest;JonathanGlazer;2024;War/Thriller
+DsO;Lukas;Always;Enlightenment

@@ -1,0 +1,8 @@
+House;Name;HeightInCm;Birthday;Wand;Pureblood
+Gryffindor;DumbledoreAlbusPercivalWulfricBrian;180;XX.8.1881;UnknownLength,Wood,andCoreMaterial.LaterElderWand;No
+Ravenclaw;LunaLovegood;157;13.2.1981;UnknownLength,Wood,andCoreMaterial;Yes
+Ravenclaw;ChoChang;165;7.4.1979;UnknownLength,Wood,andCoreMaterial;Yes
+NotSpecified;Dobby;106;28.6.XXXX;No;ItIsAnGoddammitHouse-Elf
+Slytherin;TomMarvoloRiddle;180;31.12.1926;13½"long,craftedFromYew,andAffixedWithAPhoenixFeatherCore;No
+Gryffindor;HermioneGranger;165;19.9.1979;10¾"long,madeOfVineWood,andPossessedADragonHeartstringCore;No
+Hufflepuff;CedricDiggory;185;7.9.1977;12¼"long,madeFromAsh,andContainedAUnicornHairCore;NotExactlyKnown

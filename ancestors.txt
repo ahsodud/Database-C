@@ -1,0 +1,8 @@
+Name;AgeinYears;Race;SizeInCm;Birthplace
+Legolas;2931;SindarElf;183;Mirkwood
+Gandalf;24000;Maia;168;Valinor
+Pippin;28;Hobbit;124;itewell
+Arwen;2901;Half-elven;178;Rivendell
+Gimli;139;Dwarf;137;EredLuin
+Melkor;BeforeTimeExisted;Valar;914;NowhereAndEverywere
+TomBombadil;Unknown;Unknown;152;Unknown
